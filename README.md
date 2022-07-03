@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [soon](soon)
 
 <h3 align="center">Connect with me:</h3>
-<p align="center" style="margin-left:20px;">
+<p align="center" margin-left="50px" style="margin-left:20px;">
 <a href="https://twitter.com/madardualleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madardualleh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madar-dualleh-9a5b24201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madar Dualleh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14712075/madardualleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="madardualleh" height="30" width="40" /></a>
